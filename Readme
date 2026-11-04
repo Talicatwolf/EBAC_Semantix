@@ -2,17 +2,17 @@
 O primeiro passo para escolher o projeto foi pegar algo próximo a minha realidade, como ex-morador de Mauá peguei o ultimo conjunto de dados disponível do município para efetuar análises dos gastos e receitas da cidade que morei naquele ano. 
 Uma temática importante é saber como está sendo gasto o dinheiro de onde moramos e quais melhorias estão sendo trabalhadas nelas. A análise de dados pode ajudar a manter o foco do que podemos esperar ou podemos ir à câmara municipal propor projetos de melhorias.
 
-##Fonte
+## Fonte
 https://transparencia.tce.sp.gov.br/municipio/maua
 São dados estruturados do portal da transparência com download Direto
 
 
-##EDA
+## EDA
 A exploração inicial e estrutura foi feita no VScode usando python.
 A análise inicial mostrou um alto valor de registros nulos nas tabelas no qual iremos explorar os valores encontrados de forma visual no Looker Studio
 O arquivo e as saídas do Script Python estão em uma pasta separada neste repositório.
 
-###Link para o Looker
+### Link para o Looker
 
 https://datastudio.google.com/reporting/f22c9817-0520-43c2-ba40-091911b21486
 
